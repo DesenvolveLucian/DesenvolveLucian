@@ -1,8 +1,7 @@
 ## Olá! Tudo bem ? Eu sou o Lucian
 
 - Atualmente cursando Tecnologia em Sistemas de Computação na Universidade Federal Fluminense (2º Período)
-- Participando do bootcamp DIO - MRV Fullstack Developer
-- Realizando o curso Web moderno completo com JavaScript 2021 + projetos na Udemy
+- Realizando o curso Web moderno completo com JavaScript 2022 + projetos na Udemy
 
 ##
 
